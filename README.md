@@ -110,4 +110,5 @@ help or help <command> Ex:
 * Review
 
 # Authors
+* Ange karigirwa <a.karigirwa@alustundent.com>
 * Kouame Moaye Morel Yohan <m.kouame@alustudent.com>
